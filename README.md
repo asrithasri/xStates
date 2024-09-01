@@ -1,12 +1,9 @@
-# Getting Started with Create React App
+### XStates
+As a developer i will build XStates, a basic frontend implementation by using ReactJS for the frontend.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Objective
+The project aims to create an interactive location selection component that dynamically populates country, state, and city dropdown menus based on API data and display it accordingly.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
