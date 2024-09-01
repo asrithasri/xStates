@@ -4,13 +4,13 @@ As a developer i will build XStates, a basic frontend implementation by using Re
 ### Objective
 The project aims to create an interactive location selection component that dynamically populates country, state, and city dropdown menus based on API data and display it accordingly.
 
-# Upon initial render, 3 dropdowns (Select Country, Select State, Select City) must appear out of which only the first one must be allowing the users to view the dropdown list
-# When you click on Select Country, you must get a dropdown menu of country names
-# When you select a particular country (e.g. Australia), you must be able to further select state using the Select State dropdown, but you must not be able to use the Select City dropdown yet.
-# Once you click on Select State, you must get a dropdown of list of states present in the selected country. For example, in our case, we must only be able to see the states that are a part of Australia
-# Once you select a particular state, you must be able to choose a city using the Select City dropdown.
-# Once you click on Select City, you must get a dropdown of list of cities present in the selected state. For example, in our case, we must only be able to see the cities that are a part of Western Australia
-# Once you select a particular city, you must get a statement on the frontend in the following format:
+ Upon initial render, 3 dropdowns (Select Country, Select State, Select City) must appear out of which only the first one must be allowing the users to view the dropdown list
+ When you click on Select Country, you must get a dropdown menu of country names
+ When you select a particular country (e.g. Australia), you must be able to further select state using the Select State dropdown, but you must not be able to use the Select City dropdown yet.
+ Once you click on Select State, you must get a dropdown of list of states present in the selected country. For example, in our case, we must only be able to see the states that are a part of Australia
+ Once you select a particular state, you must be able to choose a city using the Select City dropdown.
+ Once you click on Select City, you must get a dropdown of list of cities present in the selected state. For example, in our case, we must only be able to see the cities that are a part of Western Australia
+ Once you select a particular city, you must get a statement on the frontend in the following format:
 "You Selected City, State, Country":
 
 
